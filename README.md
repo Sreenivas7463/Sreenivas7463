@@ -29,6 +29,6 @@ You can click the Preview link to take a look at your changes.
 
 [![vision_api ⭐ 1](https://www.shieldcn.dev/github/stars/Sreenivas7463/vision_api.svg?variant=secondary&size=sm)](https://github.com/Sreenivas7463/vision_api) [![radix-ui ⭐ 1](https://www.shieldcn.dev/github/stars/Sreenivas7463/radix-ui.svg?variant=secondary&size=sm)](https://github.com/Sreenivas7463/radix-ui) [![App ⭐ 1](https://www.shieldcn.dev/github/stars/Sreenivas7463/App.svg?variant=secondary&size=sm)](https://github.com/Sreenivas7463/App)
 
----
 
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
+
+
